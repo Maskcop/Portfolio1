@@ -5,7 +5,7 @@ function Projects() {
     {
       title: "Online Food Delivery Website",
       description: "Built a responsive and performance-optimized web app that allows users to order food online and track delivery status in real time",
-      link: "https://github.com/Maskcop/PortFolio2.git",
+      link: "https://food-delivery-website-1-xrp2.onrender.com/",
       image: "Food Delivery website.png", // replace with your actual image
     },
     {
